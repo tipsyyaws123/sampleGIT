@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(simple-background-backgrounds-passion-simple-1-5c9b95c5ee7db.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-items: center;
+    min-height: 80vh;
+}
+.wrapper{
+    width: 400px;
+    background-color: rgb(8 , 8, 8, 0.397);
+    background-repeat: no-repeat;
+    padding: 20px;
+    border: 5px solid black;
+    font-size: 20px;
+    padding: 10px 20px 30px 40px;
+    margin: 50px 50px 50px 50px;
+    border-radius: 400px;
+    margin-top: 250px;
+    margin-left: 500px;
+    text-align: center;
+}
+
+.wrapper h1{
+    font-size: 64px;
+    font-weight: 200;
+    color: lightblue;
+}
+
+h1{
+    font-size: 24px;
+    color: lightsalmon;
+}
+
+a {
+    text-decoration: none;
+    color: lightgray;
+}
+ .submit{
+    width: 170px;
+}
+
+input;::placeholder{
+    color: lightgreen;
+}
